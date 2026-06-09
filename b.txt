@@ -1,1 +1,1 @@
-this is b txt
+second line in b.txt
