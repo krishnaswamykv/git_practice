@@ -1,3 +1,1 @@
-second line in a.txt
-new line added to a.txt
-Experiment commit 1
+main version
