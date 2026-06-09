@@ -1,1 +1,2 @@
 second line in c.txt
+change 3
